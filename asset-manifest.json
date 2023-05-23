@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextTide/static/css/main.e6c13ad2.css",
+    "main.js": "/TextTide/static/js/main.0a66db1b.js",
+    "static/js/787.de47c5ce.chunk.js": "/TextTide/static/js/787.de47c5ce.chunk.js",
+    "index.html": "/TextTide/index.html",
+    "main.e6c13ad2.css.map": "/TextTide/static/css/main.e6c13ad2.css.map",
+    "main.0a66db1b.js.map": "/TextTide/static/js/main.0a66db1b.js.map",
+    "787.de47c5ce.chunk.js.map": "/TextTide/static/js/787.de47c5ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.0a66db1b.js"
+  ]
+}
